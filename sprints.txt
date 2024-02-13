@@ -1,0 +1,35 @@
+Home Screen.
+-User should be able to login or register.
+*****(DONE)*****
+
+Login Screen.
+-User should be able to enter login valid login details and process if authorised.
+-User should have clear error messaging if invalid credentials are entered.
+-User should have the option to register instead from this page.
+-User information should be stored using proper authentication and security.
+*****(DONE)*****
+
+Register screeen.
+-User should be able to enter valid register credentials and proceed to login page.
+-User should have clear error messaging if invalid credentials are entered.
+*****(DONE)*****
+-User should have the option to login instead from this page.
+
+Upload form.
+-User should be able to enter a title and description, or leave it empty.
+-User should be able to upload a mp4 file and review it before upload.
+*****(DONE)*****
+
+Action bar.
+-User should be able to logout using this bar.
+-User should be able to go to link account screen using this bar.
+*****(DONE)*****
+-User should be able to go to their upload history from this bar.
+---Need to add date and time of upload in SQL server Clips table---
+
+Link accounts form.
+-User should be able to link currently available accounts to app (Tiktok, youtube, facebook. Initailly.)
+-Should save the linked accounts for future use.
+---Create new SQL table using email as key, store linked accounts for unique user.---
+
+
